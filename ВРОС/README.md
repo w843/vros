@@ -1,6 +1,6 @@
 
 Codebase for Loaded System labs
-
+Вдохновлялся работами ребят с потока, не бейте сильно палками
 ## Lab 1 (Docker)
 
 Start docker - `sudo service docker start`
